@@ -27,7 +27,7 @@ function showStrategy($name, $config) {
 ?>
 
 <?php if (isset($config['google-recaptcha-sitekey'])) : ?>
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script src="https://www.google.com/recaptcha/api.js?hl=pt-BR" async defer></script>
 <?php endif; ?>
 
 <div class="login-area">
