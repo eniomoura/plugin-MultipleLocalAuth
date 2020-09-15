@@ -23,7 +23,7 @@ Consulta aos cadastros de espaços, de agentes, de eventos, de projetos e de opo
 Apresentação dos dados cadastrais em interface de georreferenciamento;
 Exportação das informações públicas existentes nos cadastros mantidos pelo sistema;
 Execução, acompanhamento e publicação dos resultados de projetos e oportunidades.
-Novos serviços poderão ser disponibilizados a qualquer momento e os serviços existentes poderão ser removidos mediante comunicação através do site https://mapacultural.secult.ce.gov.br 
+Novos serviços poderão ser disponibilizados a qualquer momento e os serviços existentes poderão ser removidos mediante comunicação através do site https://mapagoiano.cultura.go.gov.br/ 
 </p>
 
 <h1>III. Da Qualificação das Partes</h1>
