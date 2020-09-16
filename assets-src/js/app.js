@@ -177,7 +177,6 @@ $(function() {
     }
 
     $(document).on('blur', '#in-email', function () {
-        console.log(this.value)
         if(validateEmail(this.value)){
             $("#email-error-msg").remove();
             $(this).removeClass('invalidField');
